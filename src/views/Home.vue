@@ -24,10 +24,11 @@
               <p class="title" style="margin-top: 1em;">Other Gear</p>  
             <GearCard v-for="gear in gears" :key="gear.id" :gear="gear" />
             </div>
-
+          
+          </div>
+      
         </div>
       </div>
-    </div>
     </div>
 
   </div>

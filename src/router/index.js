@@ -10,6 +10,12 @@ const routes = [
     component: Home // which 'view' component to render
   },
   {
+    path: "/tascam-model-12",
+    name: "Tascam-Model-12",
+    component: () =>
+      import(/* webpackChunkName: "tascam-model-12" */ "../views/Tascam-Model-12.vue")
+  },
+  {
     path: "/contact",
     name: "Contact",
     /* this is an example of a performance optimization
@@ -21,7 +27,7 @@ const routes = [
     // which is lazy-loaded when the route is visited.
     component: () =>
       import(/* webpackChunkName: "contact" */ "../views/Contact.vue")
-  }
+  },
 ];
 
 const router = createRouter({

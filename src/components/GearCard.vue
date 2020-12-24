@@ -1,6 +1,6 @@
 <template>
   <div class="gear-card">
-    <!-- Display gear data -->
+    <!-- display gear data -->
     <div id="gear-box" class="card" style="margin-top: 2em;">
       <span class="icon" style="margin: 1em; position: absolute; color: tomato;">
         <i class="fas fa-star fa-2x">
@@ -69,7 +69,7 @@
 <script>
 export default {
   name: 'GearCard',
-  // props are custom attributes for passing data into a component
+  // props are custom attributes for passing data into a component (works like a funnel)
   props: {
     gear: Object
   },
