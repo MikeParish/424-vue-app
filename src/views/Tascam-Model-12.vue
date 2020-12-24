@@ -107,9 +107,10 @@
 </template>
 
 <script>
-import VideoCard from '../components/VideoCard.vue'
+
 import GearService from '@/services/GearService.js'
-import Sidebar from '../components/Sidebar.vue'
+import Sidebar from '@/components/Sidebar.vue'
+import VideoCard from '@/components/VideoCard.vue'
 
 export default {
 	name: 'Tascam-Model-12',
@@ -123,26 +124,15 @@ export default {
 			revvideos: null
     }
 	},
-	methods: {
-
-	},
     /* created is a lifecycle hook
     ** when this component is created, call out to the server for videos data
     */
   created() {
     GearService.getRecVideos()
-    /* GearService.getGears() is the same GET request as axios.get('mockdatabase-link')
-    ** but refactored to be used globally with @/services/GearService.js
-    ** axios is promise-based and asynchronous: 
-    ** we need to make sure we're waiting for the reponse of the request to resolve
-    */
     .then(response => {
-      // callback to execute when promise is resolved
       this.recvideos = response.data
     })
-    // in case an error happens during the call, we'll grab it with catch
     .catch(error => {
-      // callback to execute if promise is rejected
       console.log(error)
 		}),
 		GearService.getRevVideos()

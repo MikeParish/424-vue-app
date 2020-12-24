@@ -1,5 +1,4 @@
 <template>
-  <!-- Home.vue is loaded and displayed by vue router -->
   <div class="gears">
     
     <div class="hero-body"> 
@@ -36,9 +35,9 @@
 
 <script>
 // @ is an alias to /src
-import GearCard from '@/components/GearCard.vue'
 import GearService from '@/services/GearService.js'
-import Sidebar from '../components/Sidebar.vue'
+import Sidebar from '@/components/Sidebar.vue'
+import GearCard from '@/components/GearCard.vue'
 
 export default {
   name: 'Home',
@@ -52,11 +51,8 @@ export default {
       gears: null
     }
   },
-  methods: {
-
-  },
     /* created is a lifecycle hook
-    ** when this component is created, call out to the server for gears data
+    ** when this component is created, call out to the server for popgears and gears data
     */
   created() {
     GearService.getPopGears()
@@ -76,12 +72,9 @@ export default {
     })
     GearService.getGears()
     .then(response => {
-      // callback to execute when promise is resolved
       this.gears = response.data
     })
-    // in case an error happens during the call, we'll grab it with catch
     .catch(error => {
-      // callback to execute if promise is rejected
       console.log(error)
     })
   }

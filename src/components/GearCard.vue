@@ -77,19 +77,15 @@ export default {
     outbounderZ(link) {
       console.log('Hey, z clicked')
       console.log(link + ' this is the clicked link')
-      //getOutboundLink(link) 
-      //return false;
     },
     outbounderA(link) {
       console.log('Hey, a clicked')
       console.log(link + ' this is the clicked link')
-      //getOutboundLink(link) 
-      //return false;
     }
   }
 }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
+<!-- Adding "scoped" attribute limits CSS to a component -->
 <style scoped>
 </style>
