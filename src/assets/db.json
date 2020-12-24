@@ -1,0 +1,204 @@
+{
+    "popgears": [
+      {
+        "id": 1,
+        "title": "HOSA Stereo RCA to 1/4\" TS",
+        "category": "(4-track Bouncing)",
+        "description": "I’d recommend getting two of these cables. This will allow you to bounce all 4 tracks of the 4-track at once, which is important for mixing in post and backing up your tapes. These cables are also useful for hooking up monitors to the Line Out or Monitor Out. You might want to get three or four of them, depending on what you're doing. This is the cable I use the most with the 4-track.",
+        "imglink": "http://424recording.com/imgs/11-rca.jpg",
+        "amzlink": "https://amzn.to/3oXbxAJ",
+        "zzolink": "https://www.zzounds.com/a--3970771/item--HOSHPRX2?siid=134234"
+      },
+      {
+        "id": 2,
+        "title": "ART Tube MP",
+        "category": "(Phantom Power and Mic Preamps)",
+        "description": "I have three ART Tube MPs. They are a steal. They provide Phantom Power for condenser mics and have a +20db boost for dynamic mics (or any source). You can also color your mics by overdriving the unit. The Tube MP is also great for tracking bass and it has Phase Reverse if you’re tracking drums. It looks like it also has an Output Limiter now, too!",
+        "imglink": "http://424recording.com/imgs/05-art.jpg",
+        "amzlink": "https://amzn.to/38dUnc7",
+        "zzolink": "https://www.zzounds.com/a--3970771/item--ARTTMPSTU"
+      },
+      {
+        "id": 3,
+        "title": "Recording, Mixing, and Playback",
+        "category": "(Sennheiser HD 280 Pro Headphones)",
+        "description": "Having a good pair of headphones is important for recording. These headphones are flat sounding. Most headphones overhype frequencies, which is great for listening but not so great for recording and mixing. It's wise to get one pair and stick with them. I've had these for close to a decade and would get them again.",
+        "imglink": "http://424recording.com/imgs/02-sen.jpg",
+        "amzlink": "https://amzn.to/2GzvkVO",
+        "zzolink": "https://www.zzounds.com/a--3970771/item--SENHD280PRO"
+      },
+      {
+        "id": 4,
+        "title": "Tascam Model 12",
+        "category": "(4-track Alternative)",
+        "description": "The more I've been using the Tascam Model 12, the more I'm realizing it is the Tascam 424 mkiv we've been waiting for. The only differences I've encountered are the Model 12 doesn't record to cassette and the preamps are upgraded (and each channel has a built in compressor). Unless there's a specific reason you want to record to cassette, I think you'll find the Model 12 to be a superior alternative to a vintage 4-track.",
+        "imglink": "http://424recording.com/imgs/model-12.jpg",
+        "amzlink": "https://amzn.to/2I4IrPq",
+        "zzolink": "https://www.zzounds.com/a--3970771/item--TASMODEL12"
+      },
+      {
+        "id": 5,
+        "title": "HOSA Pro XLR Cable",
+        "category": "(4-track Cables)",
+        "description": "XLR cables are a must for all sorts of recording applications. These particular XLR cables from HOSA have been popular on the site. They come in lengths of 3 feet to 100 feet. While I've never personally used them, they seem like a simple, no frills solution and people like them!",
+        "imglink": "http://424recording.com/imgs/xlr-cable.jpg",
+        "amzlink": "https://amzn.to/3fVkVRh",
+        "zzolink": "https://www.zzounds.com/a--3970771/item--HOSHMIC"
+      }
+    ],
+    "gears": [
+      {
+        "id": 1,
+        "title": "Shure SM58",
+        "category": "(Mics)",
+        "description": "You’ll want a dynamic mic for your 4-track. The best all around mic for 4-track recording is the Shure SM58. It's great for vocals, and when you take the windscreen off, you have an SM57. Having one dynamic mic that you know the sound of and can use in myriad scenarios is invaluable. It seems like Shure mics were built to pair well with the 4-track.",
+        "imglink": "http://424recording.com/imgs/03-58.jpg",
+        "amzlink": "https://amzn.to/3esKZmn",
+        "zzolink": "https://www.zzounds.com/a--3970771/item--SHUSM58"
+      },
+      {
+        "id": 2,
+        "title": "Shure Beta 58A",
+        "category": "(Mics)",
+        "description": "I was always curious about the Shure Beta 58a. Honestly, the naming system is strange... it seems to imply the \"Beta\" series are prototypes. As it turns out, this is the \"2nd\" version of the SM58. I've always liked the SM58 for its sound and utility. This one is definitely a step up. If you like the 58, you'll love the Beta 58a. This is the mic I use for recording vocals, podcasting, and voice overs.",
+        "imglink": "http://424recording.com/imgs/26-beta.jpg",
+        "amzlink": "https://amzn.to/2I4P0S4",
+        "zzolink": "https://www.zzounds.com/a--3970771/item--SHUBETA58A"
+      },
+      {
+        "id": 3,
+        "title": "AKG C414 Condenser Mic",
+        "category": "(Mics)",
+        "description": "The AKG C414 condenser mic has been used on countless 90's indie rock albums. I'd read about it so many times over the years that I finally had to invest in one a few years ago. It's probably the most expensive item on this list. There's a lot of cheaper alternatives out there, such as the AKG C214 Condenser Mic , which is a simpler version of C414.",
+        "imglink": "http://424recording.com/imgs/04-414.jpg",
+        "amzlink": "https://amzn.to/3eq3OX2",
+        "zzolink": "https://www.zzounds.com/a--3970771/item--AKGC414XLS?siid=89272"
+      },
+      {
+        "id": 4,
+        "title": "ART Tube MP Studio V3",
+        "category": "(Phantom Power and Mic Preamps)",
+        "description": "The Art Tube MP Studio V3 looks cool! I've never tried it before but it's a suped up version of the Art Tube MP. There's voicings for different sound sources plus an output protection limiter. I'll have to try one of these out soon. In the meantime, maybe you could check one out and let me know what you think!",
+        "imglink": "http://424recording.com/imgs/05.1-art-v3.jpg",
+        "amzlink": "https://amzn.to/2HY1Mlr",
+        "zzolink": "https://www.zzounds.com/a--3970771/item--ARTV3"
+      },
+      {
+        "id": 5,
+        "title": "HOSA Stereo 1/8\" Breakout to 1/4\" TS",
+        "category": "(4-track Cables)",
+        "description": "When it comes to 4-track recording, stereo breakout cables are useful for a variety of applications. I use mine to hook up gear to the 4-track that has a stereo 1/8” output (a headphone output) or a 1/4\" stereo output (you'll need a HOSA Stereo 1/8\" to 1/4\" Adapter for this) such as the Digitakt, OP-1, or an iPhone. This cable makes it easy to record these types of sources in mono or stereo.",
+        "imglink": "http://424recording.com/imgs/12-breakout.jpg",
+        "amzlink": "https://amzn.to/3kYmnnX",
+        "zzolink": "https://www.zzounds.com/a--3970771/item--HOSHMPY?siid=134232"
+      },
+      {
+        "id": 6,
+        "title": "HOSA RCA to 1/4\" Snake",
+        "category": "(4-track Cables)",
+        "description": "I would have gotten one of these RCA snakes if I didn’t have the Stereo RCA cables above. Check out all the colors, man! You also get extra cables, if you need them for something else or if one goes bad. This is a killer snake to consider if you’re planning to bounce a lot between 4-tracks, computer interfaces, rack gear... or some combination of all three.",
+        "imglink": "http://424recording.com/imgs/13-rca-snake.gif",
+        "amzlink": "https://amzn.to/34ZGpJ3",
+        "zzolink": "https://www.zzounds.com/a--3970771/item--HOSCPR80"
+      },
+      {
+        "id": 7,
+        "title": "HOSA Stereo 1/8\" to 1/4\" Adapter",
+        "category": "(4-track Cables)",
+        "description": "Not much can be said about these Stereo 1/8\" to 1/4\" Adapters other than when you need one and don't have one, it can be really frustrating. I have a couple of these in my desk at all times. I use this with the Stereo Breakout cable above. They're also useful for headphones that have stereo 1/8\".",
+        "imglink": "http://424recording.com/imgs/14-eighth.jpg",
+        "amzlink": "https://amzn.to/2HYPLMC",
+        "zzolink": "https://www.zzounds.com/a--3970771/item--HOSGHP105"
+      },
+      {
+        "id": 8,
+        "title": "Yamaha HS5 Monitors",
+        "category": "(4-track Recording, Mixing, and Playback)",
+        "description": "A good pair of monitors is crucial for recording, mixing, and playback. These monitors are great because they have a flat sound. A lot of monitors overhype frequencies, which is great for listening but not so great for recording and mixing. If you like the way your songs sound on your monitors but not anywhere else, this is usually the reason.",
+        "imglink": "http://424recording.com/imgs/01-yam.jpg",
+        "amzlink": "https://amzn.to/2U13PqZ",
+        "zzolink": "https://www.zzounds.com/a--3970771/item--YAMHS5?siid=190652"
+      },
+      {
+        "id": 9,
+        "title": "Behringer UMC404HD Interface",
+        "category": "(4-track Bouncing)",
+        "description": "The Behringer UMC404HD interface is a cost effective solution for bouncing your tracks to the computer. Any 4 channel interface will do, but I’ve found this one to be super useful at an incredible price point. The preamps sound great and you can bounce your stereo mix or all 4 tracks at once into a DAW. I also use it for audio when live streaming on my PC.",
+        "imglink": "http://424recording.com/imgs/09-beh-umc.jpg",
+        "amzlink": "https://amzn.to/34YqcUj",
+        "zzolink": "https://www.zzounds.com/a--3970771/item--BEHUMC404HD"
+      },
+      {
+        "id": 10,
+        "title": "Focusrite Scarlett 18i8 Interface",
+        "category": "(4-track Bouncing)",
+        "description": "The Focusrite interfaces are another good choice for 4-track bouncing. I used to have the 18i8 but sold it to a friend that needed an interface. One downside to these is that the overload lights aren't accurate. You need to go with your ears over your eyes, which is usually the best way to go regardless. Another downside is that this is twice the price of the Behringer and does the same thing.",
+        "imglink": "http://424recording.com/imgs/10-scar.jpg",
+        "amzlink": "https://amzn.to/34XZhIg",
+        "zzolink": "https://www.zzounds.com/a--3970771/item--FOCSCAR18I8V3"
+      },
+      {
+        "id": 11,
+        "title": "Boss FS-5U Footswitch",
+        "category": "(4-track Punching)",
+        "description": "If you want to do some punching on your tracks, and do it hands-free, you'll want an unlatching footswitch you can connect to the 4-track like this one. I have the old Tascam branded one, but they are increasingly hard to find, and any unlatching switch will get the job done.",
+        "imglink": "http://424recording.com/imgs/23-fs.jpg",
+        "amzlink": "https://amzn.to/3l0WBzt",
+        "zzolink": "https://www.zzounds.com/a--3970771/item--ROLFS5U"
+      },
+      {
+        "id": 12,
+        "title": "ART Pro VLA II Compressor",
+        "category": "(Outboard Gear and Pedals)",
+        "description": "I used to have one of these. The ART Pro VLA II is a solid and cost effective tube compressor that's perfect for outboard mastering. You can also use it for parallel compression or compressing your sources before they hit the cassette tape. I wish I still had it!",
+        "imglink": "http://424recording.com/imgs/17-art-vla.jpg",
+        "amzlink": "https://amzn.to/3kZYSec",
+        "zzolink": "https://www.zzounds.com/a--3970771/item--ARTPROVLAII"
+      },
+      {
+        "id": 13,
+        "title": "Alesis SR-16 Drum Machine",
+        "category": "(Outboard Gear and Pedals)",
+        "description": "This is a classic drum machine and another piece of gear that's been around for almost as long as the 4-track. This is a great sounding hardware drum machine. Sure, you could use samples in a DAW or the DM-1 drum app but where's the fun in that? (Nah, I do that all the time and digital samples can sound killer!) This drum machine is definitely a cool piece of kit if you're looking to go solo and/or DAWless!",
+        "imglink": "http://424recording.com/imgs/18-alesis.jpg",
+        "amzlink": "https://amzn.to/2I8Q0ED",
+        "zzolink": "https://www.zzounds.com/a--3970771/item--ALESR16"
+      },
+      {
+        "id": 14,
+        "title": "Boss DM-2 Analog Delay",
+        "category": "(Outboard Gear and Pedals)",
+        "description": "I've always been partial to the Boss DM-2. It's simple and warm sounding. It's incredible on vocals as well as any other source you might want to delay. The analog nature of the pedal pairs well with the 4-track and they're both from the same era. I have a vintage, Made in Japan one, but I've heard great things about the newer Waza Craft series. If you look for a vintage one, make sure the chip trim settings haven't been tampered with.",
+        "imglink": "http://424recording.com/imgs/19-dm-2.jpg",
+        "amzlink": "https://amzn.to/34XWZJm",
+        "zzolink": "https://www.zzounds.com/a--3970771/item--BOSDM2W"
+      },
+      {
+        "id": 15,
+        "title": "EHX Holy Grail Reverb",
+        "category": "(Outboard Gear and Pedals)",
+        "description": "I used to have one of these, too. Like the DM-2, it's incredible on vocals. The Holy Grail sounds like it's analog even though it's digital and the newer version sounds better than the big box version I used to have. If you're looking for reverb to use on all sorts of sources on the effects channel, this is the pedal to hook up to the 4-track.",
+        "imglink": "http://424recording.com/imgs/20-holy.jpg",
+        "amzlink": "https://amzn.to/2I7yK2t",
+        "zzolink": "https://www.zzounds.com/a--3970771/item--ELHHOLYGRAIL"
+      },
+      {
+        "id": 16,
+        "title": "EHX Micro POG",
+        "category": "(Outboard Gear and Pedals)",
+        "description": "An octave pedal like the Micro POG is great for transforming your guitar into a bass. I also use it to thicken up lead sounds without needing to double track. I have the original big box version which is awesome but it takes up a lot of space on your board! There's a couple versions of these: the POG 2 , a newer, suped up version of the big box, and this Micro POG (plus a Nano POG that is the same as the Micro in a smaller form factor).",
+        "imglink": "http://424recording.com/imgs/21-pog.jpg",
+        "amzlink": "https://amzn.to/3l0M5bb",
+        "zzolink": "https://www.zzounds.com/a--3970771/item--ELHMICROPOG"
+      },
+      {
+        "id": 17,
+        "title": "Keeley 30ms Double Tracker",
+        "category": "(Outboard Gear and Pedals)",
+        "description": "This pedal is good for double tracking your sources to one track in one shot. Usually, you'd have to use two tracks to record a part twice and then bounce those to free up room. If you want to make the most of your 4 tracks with a minimal amount of bouncing, this is the way to go. I made this video on the pedal and the vocal sounds a while back.",
+        "imglink": "http://424recording.com/imgs/22-30ms.jpg",
+        "amzlink": "https://amzn.to/3mOSZkm",
+        "zzolink": null
+      }
+    ]
+  }
