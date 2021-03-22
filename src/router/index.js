@@ -5,7 +5,7 @@ import Home from "../views/Home.vue"; // importing Home component from views dir
 const routes = [
   // routes array with route objects
   {
-    path: "/", // url
+    path: "/424-vue-app/", // url
     name: "Home", // name of route
     component: Home // which 'view' component to render
   },
